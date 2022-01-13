@@ -1,6 +1,8 @@
-# Python Coding Challenges
+# Python Coding Practice
 
-This is my library of Python practice problems and assignements. These were done as part of an [introductory Python course.](https://tinyurl.com/2p8mftsv)
+This is my library of Python coding practice problems/ assignements. These were done as part of an [introductory Python course.](https://tinyurl.com/2p8mftsv).
+
+Comments have been provided throughout to help understand problems/ assignements. 
 
 ## Topics
 -  [Introduction to Python](https://github.com/M-AliFida/Python-Course/tree/master/Introduction%20to%20Python)
