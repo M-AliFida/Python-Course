@@ -1,4 +1,4 @@
-# Python Coding Practice
+# Python Practice
 
 This is my library of Python coding practice problems/ assignements. These were done as part of an [introductory Python course.](https://tinyurl.com/2p8mftsv).
 
